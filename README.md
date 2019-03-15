@@ -1,5 +1,5 @@
 ## …or create a new repository on the command line
-```console
+```bat
 git init
 git add README.md
 git commit -m "first commit"
