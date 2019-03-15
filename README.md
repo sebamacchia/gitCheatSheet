@@ -13,6 +13,10 @@ git config --global color.ui auto
 //set automatic command line coloring for Git for easy reviewing
 ```
 
+## SETUP & INIT
+
+
+
 
 ## …or create a new repository on the command line
 ```shell
